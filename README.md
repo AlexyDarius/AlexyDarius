@@ -1,8 +1,8 @@
-# 👋 Hello, I’m Alex Darius (alexydarius)
+# 👋 Hello, I’m Alexy Roman (alexydarius)
 
 🎯 **Systems & Software Engineer @ H3 Dynamics**  
-🌱 Passionate about hydrogen fuel cell systems, aeronautical-grade software & hardware  
-💡 Innovator in embedded systems, creative tools, and open‑source
+🌱 Passionate about hydrogen fuel cell systems, and development
+💡 Innovator in digitalisation solutions for tech start-ups
 
 ---
 
