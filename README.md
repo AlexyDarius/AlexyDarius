@@ -1,8 +1,6 @@
 # 👋 Hello, I’m Alexy Roman (alexydarius)
 
-🎯 **Systems & Software Engineer @ H3 Dynamics**  
-🌱 Passionate about hydrogen fuel cell systems, and development
-💡 Innovator in digitalisation solutions for tech start-ups
+🎯 **ATM Systems Engineer @ Egis Aviation**  
 
 ---
 
@@ -46,7 +44,6 @@
 ### 🚀 Selected Projects
 
 - **Solar‑Powered GPS Tracker** • Rugged Arduino‑based solution for hiking navigation 📡  
-- **Advanced hydrogen fuel‑cell systems models** • Capella (MBSE) models for airborne fuel cell systems at H3 Dynamics  
 - **Python data plotting tools** • Custom methods, plotters and utilities to process fuel cell system specific data
 
 _For full portfolio & project demos, visit [alexyroman.com](https://alexyroman.com)._
