@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Alexy Roman (alexydarius)
 
-🎯 **ATM Systems Engineer @ Egis Aviation / Global Solution Architect & Developer @ WebOustaou**  
+🎯 **ATM Systems Engineer @ Egis Aviation / Cooking @ WebOustaou**  
 
 ---
 
